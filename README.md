@@ -1,2 +1,1 @@
-# pulse
-Pulse Content Platform
+Pulse frontend. Reads videos from Supabase public videos table. Admin insert UI is currently public and NOT secure; do not use for real admin uploads until auth/RLS is implemented.
